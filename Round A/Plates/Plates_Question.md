@@ -48,7 +48,7 @@ The beauty values are between 1 and 100, inclusive.
 - Output:
 ```
 Case #1: 250
-Case #2: 18
+Case #2: 180
 ```
 
 **Explaination**
